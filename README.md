@@ -1,2 +1,2 @@
 # Deep-Learning
-My deep learning programing
+My deep learning program
